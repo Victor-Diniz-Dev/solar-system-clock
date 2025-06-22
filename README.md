@@ -1,5 +1,9 @@
 # 🚀 Sistema Solar Animado com Relógio Digital 🌌
 
+<p align="center">
+  <img src="/img/image.png" width="600" alt="Imagem da interface do projeto"/>
+</p>
+
 ## 📖 Descrição
 
 Este projeto exibe uma animação simples de um sistema solar (☀️ Sol, 🌍 Terra e 🌙 Lua) orbitando, junto com um relógio digital estilizado ⏰. Feito em HTML, CSS e JavaScript puro, sem frameworks.
