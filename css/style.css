@@ -90,3 +90,17 @@ body {
   padding: 0.2em 0.5em;
   border-radius: 0.4em;
 }
+.signature {
+  position: fixed;        /* fixa na viewport */
+  bottom: 1em;            /* distância da borda inferior */
+  right: 1em;             /* distância da borda direita */
+  font-family: 'Courier New', monospace;
+  font-size: 1em;
+  color: rgba(255, 255, 255, 0.7);
+  text-shadow: 0 0 0.2em rgba(0,0,0,0.5);
+  pointer-events: none;    /* não atrapalha cliques */
+
+  background: rgba(55, 55, 55, 0.4);
+  padding: 0.2em 0.5em;
+  border-radius: 0.4em;
+}
