@@ -10,17 +10,12 @@ Este projeto exibe uma animação simples de um sistema solar (☀️ Sol, 🌍 
 
 ### ✨ Funcionalidades
 
-💛 Sol “pulsante” (efeito de brilho e expansão)
-
 🌍 Órbita circular da Terra usando keyframes CSS
 
 🌙 Órbita da Lua em torno da Terra
 
-⏰ Relógio digital atualizado a cada segundo
+⏰ Relógio digital atualizado em tempo real
 
-⭐ Fundo preto com estrelas simuladas (opcional)
-
-📁 Estrutura modular de pastas (CSS e JS separados)
 
 #### 🎨 Personalização
 
